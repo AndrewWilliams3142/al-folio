@@ -13,6 +13,7 @@ $max-content-width: {{site.max_width}};
   "base"
 ;
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1&display=swap');
-</style>
+@font-face {
+    font-family: 'Open Sans';
+    src: url('https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1&display=swap');
+}
