@@ -7,6 +7,11 @@ years: [1956, 1950, 1935, 1905]
 nav: true
 ---
 
+Hi there! I'm a PhD student in Climate Physics at the University of Oxford, where my advisor is [Prof. Philip Stier](https://www2.physics.ox.ac.uk/contacts/people/stier){:target="\_blank"}.
+
+My research uses **global climate models** to understand how our planet responds to changes in **aerosols** (e.g. from pollution or wildfires) and **greenhouse gases** (e.g. CO$$ _{2} $$). I'm particularly interested in understanding how clouds and large-scale circulation mediate these effects.
+
+
 <div class="publications">
 
 {% for y in page.years %}
