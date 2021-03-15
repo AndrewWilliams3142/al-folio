@@ -4,8 +4,20 @@
 
 // Typography
 
-p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
+h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
+}
+
+p {
+  color: var(--global-new-color);
+  font-size: 1.15rem;
+  font-family: Helvetica;
+}
+
+t {
+  color: var(--global-new-color);
+  font-size: 1.8rem;
+  font-family: Helvetica Neue;
 }
 
 a, table.table a {
@@ -45,7 +57,7 @@ a, table.table a {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: 'Shippori Mincho B1', serif; // monospace
+    font-family: cursive; // monospace
     font-size: 1.2rem;
     p {
       display: inline-block;
