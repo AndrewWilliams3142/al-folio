@@ -2,7 +2,7 @@
 layout: page
 title: climate sensitivity
 description: a project with a background image
-img: /assets/img/3.jpg
+img: /assets/img/high_low_co2_spectral_decomp.png
 importance: 2
 ---
 
