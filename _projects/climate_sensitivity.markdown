@@ -1,8 +1,8 @@
 ---
 layout: page
 title: climate sensitivity
-description: a project with a background image
-img: /assets/img/spectral.png
+description: Why is climate sensitivity state-dependent, and does it matter?
+img: /assets/img/spectral_no-title.png
 importance: 3
 ---
 

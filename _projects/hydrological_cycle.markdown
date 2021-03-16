@@ -1,8 +1,8 @@
 ---
 layout: page
 title: the hydrological cycle
-description: a project that redirects to another website
-img: /assets/img/djf_rx1.png
+description: How does global warming impact extreme rainfall?
+img: /assets/img/djf_rx1_no-title.png
 importance: 2
 ---
 

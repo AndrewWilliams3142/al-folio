@@ -1,7 +1,7 @@
 ---
 layout: page
 title: aerosols and climate
-description: a project with a background image
+description: How does the spatial distribution of anthropogenic aerosol impact the Earth's climate?
 img: /assets/img/2005_aod.png
 importance: 1
 ---
