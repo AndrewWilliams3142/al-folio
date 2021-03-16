@@ -3,7 +3,7 @@ layout: page
 title: the hydrological cycle
 description: a project that redirects to another website
 img: /assets/img/djf_rx1.png
-importance: 3
+importance: 2
 ---
 
 Every project has a beautiful feature showcase page.

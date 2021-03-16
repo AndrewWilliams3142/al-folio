@@ -3,7 +3,7 @@ layout: page
 title: climate sensitivity
 description: a project with a background image
 img: /assets/img/spectral.png
-importance: 2
+importance: 3
 ---
 
 Every project has a beautiful feature showcase page.
