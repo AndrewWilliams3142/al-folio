@@ -20,4 +20,4 @@ Hi there! I'm a PhD student in the Department of Atmospheric, Oceanic and Planet
 
 My research uses **global climate models** to understand how our planet responds to changes in **aerosols** (e.g. from pollution or wildfires) and **greenhouse gases** (e.g. CO$$ _{2} $$). I'm particularly interested in understanding how clouds and large-scale circulation mediate these effects.
 
-I'm a keen advocate for reproducible, open-source science and have previously contributed to numerous community projects on [GitHub](https://github.com/AndrewWilliams3142){:target="\_blank"}. You can find out some more about the projects I've been involved with on my [Research](https://andrewwilliams3142.github.io/research/) page.
+I'm a keen advocate for reproducible, open-source science and contribute to numerous community projects on [GitHub](https://github.com/AndrewWilliams3142){:target="\_blank"}. You can find out some more about the projects I've been involved with on my [Research](https://andrewwilliams3142.github.io/research/) page.
