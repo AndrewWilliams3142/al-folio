@@ -2,7 +2,7 @@
 layout: page
 title: aerosols and climate
 description: a project with a background image
-img: /assets/img/12.jpg
+img: /assets/img/2005_aod.png
 importance: 1
 ---
 

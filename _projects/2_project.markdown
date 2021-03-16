@@ -2,7 +2,7 @@
 layout: page
 title: climate sensitivity
 description: a project with a background image
-img: /assets/img/high_low_co2_spectral_decomp.png
+img: /assets/img/spectral.png
 importance: 2
 ---
 
@@ -16,7 +16,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/high_low_co2_spectral_decomp.png
     ---
 
 <div class="row">
