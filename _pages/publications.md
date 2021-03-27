@@ -14,8 +14,6 @@ nav: true
 
  - **Williams, A.**, O'Gorman, P.A.: Contrasting Seasonal Response of Northern Hemisphere Precipitation Extremes to Climate Change.
 
- - **Williams, A.**, Seeley, J.T.: RRTM overestimates climate sensitivity at high CO$$_{2}$$ due to neglect of CO$$_{2}$$ opacity.
-
 <p>&nbsp;</p>
 
 ### submitted:
