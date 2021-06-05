@@ -14,6 +14,7 @@ nav: true
 
  - **Williams, A.**, O'Gorman, P.A.: Contrasting Seasonal Response of Northern Hemisphere Precipitation Extremes to Climate Change.
 
+ - **Williams, A.**, Stier, P., Watson-Parris, D., Dagan, G.: Circulation changes control forcing efficiency of absorbing aerosols in the tropics.
 <p>&nbsp;</p>
 
 ### submitted:
