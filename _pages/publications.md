@@ -10,11 +10,11 @@ nav: true
 ### in prep:  
 
 
- - Watson-Parris, D., **Williams, A.**, Deaconu, L., Stier, P.: GCEm v1.0.0 An open, scalable General Climate Emulator.
+ - Watson-Parris, D., **Williams, A.**, Deaconu, L., Stier, P.: Model calibration using ESEm v1.0.0 – an open, scalable Earth System Emulator.
 
  - **Williams, A.**, O'Gorman, P.A.: Contrasting Seasonal Response of Northern Hemisphere Precipitation Extremes to Climate Change.
 
- - **Williams, A.**, Stier, P., Watson-Parris, D., Dagan, G.: Circulation changes control forcing efficiency of absorbing aerosols in the tropics.
+ - **Williams, A.**, Stier, P., Watson-Parris, D., Dagan, G.: Understanding the sensitivity of radiative forcing to the spatial pattern of absorbing aerosol.
 <p>&nbsp;</p>
 
 ### submitted:
