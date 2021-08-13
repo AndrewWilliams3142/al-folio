@@ -20,7 +20,7 @@ nav: true
 
 ### submitted:
 
- - <font size="12"> Watson-Parris, D., **Williams, A.**, Deaconu, L., Stier, P.: Model calibration using ESEm v1.0.0 – an open, scalable Earth System Emulator. <\font>
+ - <font size="12"> Watson-Parris, D., **Williams, A.**, Deaconu, L., Stier, P.: Model calibration using ESEm v1.0.0 – an open, scalable Earth System Emulator. </font>
 
 <p>&nbsp;</p>
 
