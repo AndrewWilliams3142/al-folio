@@ -13,14 +13,16 @@ nav: true
 
  - **Williams, A.**, Stier, P., Watson-Parris, D., Dagan, G.: Strong dependence of radiative forcing on the spatial pattern of absorbing aerosol.
 
- - **Williams, A.**, Dagan, G., Watson-Parris, D., Stier, P.: The sensitivity of local and global precipitation to the geographical location of absorbing aerosol in a GCM with fixed-SSTs
+ - **Williams, A.**, Dagan, G., Watson-Parris, D., Stier, P.: Local and global sensitivities of precipitation to the spatial pattern of absorbing aerosol
  
  - **Williams, A.**, Hempel, T.: How does tropical sea-surface temperature variability impact the radiative forcing of Indonesian biomass-burning aerosol?
+
+ - **Williams, A.** et al.: The linear sensitivity of regional precipitation to the spatial pattern of sea-surface temperature
 
 
 ### submitted:
 
- - <span style="font-size:24"> Watson-Parris, D., **Williams, A.**, Deaconu, L., Stier, P.: Model calibration using ESEm v1.0.0 – an open, scalable Earth System Emulator. </span>
+ - <span style="font-size:48"> Watson-Parris, D., **Williams, A.**, Deaconu, L., Stier, P.: Model calibration using ESEm v1.0.0 – an open, scalable Earth System Emulator. </span>
 
 <p>&nbsp;</p>
 
