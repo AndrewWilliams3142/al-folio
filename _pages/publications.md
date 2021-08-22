@@ -17,8 +17,6 @@ nav: true
  
  - **Williams, A.**, Hempel, T.: How does tropical sea-surface temperature variability impact the radiative forcing of Indonesian biomass-burning aerosol?
 
- - **Williams, A.**: Probing the temperature-dependence of equilibrium climate sensitivity in an idealized GCM by fixing global-mean SST and equilibrating CO$$ _{2} $$
-
 
 ### submitted:
 
