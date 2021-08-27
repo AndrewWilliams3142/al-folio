@@ -17,13 +17,10 @@ nav: true
  
  - **Williams, A.**, Hempel, T.: How does tropical sea-surface temperature variability impact the radiative forcing of Indonesian biomass-burning aerosol?
 
- - **Williams, A.** et al.: The linear sensitivity of regional precipitation to the spatial pattern of sea-surface temperature
-
-
 ### submitted:
 
- - <span style="font-size:48"> Watson-Parris, D., **Williams, A.**, Deaconu, L., Stier, P.: Model calibration using ESEm v1.0.0 – an open, scalable Earth System Emulator. </span>
-
-<p>&nbsp;</p>
+ - Watson-Parris, D., **Williams, A.**, Deaconu, L., Stier, P.: Model calibration using ESEm v1.0.0 – an open, scalable Earth System Emulator. *Submitted to Geoscientific Model Development.* [Preprint](https://gmd.copernicus.org/preprints/gmd-2021-267/)
 
 ### 2021:
+<p>&nbsp;</p>
+
