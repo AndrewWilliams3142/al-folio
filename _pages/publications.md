@@ -13,7 +13,7 @@ nav: true
 
  - **Williams, A.**, Stier, P., Watson-Parris, D., Dagan, G.: Strong dependence of radiative forcing on the spatial pattern of absorbing aerosol.
 
- - **Williams, A.**, Dagan, G., Watson-Parris, D., Stier, P.: Local and global sensitivities of precipitation to the spatial pattern of absorbing aerosol
+ - **Williams, A.**, Dagan, G., Watson-Parris, D., Stier, P.: Energetic constraints on the sensitivity of local and global precipitation to the geographical location of absorbing aerosol
  
  - **Williams, A.**, Hempel, T.: How does tropical sea-surface temperature variability impact the radiative forcing of Indonesian biomass-burning aerosol?
 
