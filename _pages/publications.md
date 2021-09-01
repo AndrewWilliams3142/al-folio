@@ -5,6 +5,8 @@ title: publications
 nav: true
 ---
 
+*Unfortunately, not all publications are open-access. If you want to have a copy, please don't pay for it! Just drop me an email and I'll send it to you personally. It's completely legal, and I am very happy to do this.*
+
 ### in prep:  
 
  - **Williams, A.**, O'Gorman, P.A.: Contrasting Seasonal Response of Northern Hemisphere Precipitation Extremes to Climate Change
