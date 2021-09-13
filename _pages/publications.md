@@ -15,6 +15,8 @@ nav: true
  
  - **Williams, A.**, Hempel, T.: How does Tropical Sea-Surface Temperature Variability Impact the Radiative Forcing of Indonesian Wildfires?
 
+ - **Williams, A.**: Simulating the Matsuno-Gill response to tropical heating with a cloud-resolving model
+
 ### 2021:
 
  - Watson-Parris, D., **Williams, A.**, Deaconu, L., Stier, P.: [Model calibration using ESEm v1.0.0 – an open, scalable Earth System Emulator](https://gmd.copernicus.org/preprints/gmd-2021-267/) \
