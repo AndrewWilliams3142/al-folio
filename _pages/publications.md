@@ -11,6 +11,8 @@ nav: true
 
  - **Williams, A.**, O'Gorman, P.A.: Contrasting Seasonal Response of Northern Hemisphere Precipitation Extremes to Climate Change
 
+ - Dagan, G., Stier, P., Dingley, E., **Williams, A.**: Using the co-variability of the atmospheric water and energy budgets to examine the role of clouds in the climate system
+
  - **Williams, A.**, Dagan, G., Watson-Parris, D., Stier, P.: Rapid adjustments control the sensitivity of fast changes in local and global precipitation to the spatial pattern of absorbing aerosol
  
  - **Williams, A.**, Hempel, T.: How does Tropical Sea-Surface Temperature Variability Impact the Radiative Forcing of Indonesian Wildfires?
