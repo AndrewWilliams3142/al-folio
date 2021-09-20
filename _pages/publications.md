@@ -15,7 +15,7 @@ nav: true
 
  - **Williams, A.**, Dagan, G., Watson-Parris, D., Stier, P.: Rapid adjustments control the sensitivity of fast changes in local and global precipitation to the spatial pattern of absorbing aerosol
  
- - **Williams, A.**, Hempel, T.: How does Tropical Sea-Surface Temperature Variability Impact the Radiative Forcing of Indonesian Wildfires?
+ - **Williams, A.**, Hempel, T.: How does tropical sea-surface temperature variability alter the radiative forcing from Indonesian wildfires?
 
  - **Williams, A.**: Simulating the Matsuno-Gill response to tropical heating with a cloud-resolving model
 
