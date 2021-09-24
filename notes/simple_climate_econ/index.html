@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Andrew Williams</title>
+<title>Andrew Williams | A simple toy model of the coupling between the climate system and an idealized economy.</title>
 <meta name="description" content="">
 
 <!-- Open Graph -->
@@ -30,7 +30,7 @@
 
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/notes/simple_climate_econ/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -160,20 +160,71 @@
     <!-- Content -->
 
     <div class="container mt-5">
-      <div class="post">
+      
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+<div class="post">
 
+  <header class="post-header">
+    <h1 class="post-title">A simple toy model of the coupling between the climate system and an idealized economy.</h1>
+    <p class="post-meta">March 15, 2015</p>
+  </header>
 
-  <ul class="post-list">
-    
-  </ul>
+  <article class="post-content">
+    <p>Most simple integrated assessment models (IAMs) exogenously prescribe an emissions pathway, which in theory can then be modified in situ by policy parameters through the abatement rate, this limits the possibility of dynamical feedbacks between emissions, temperature and economic growth.</p>
+
+<p>On the other hand, full complexity IAMs such as DICE often obfuscate the basic ideas at play by treating the abatement rate, \(\mu_{t}\), as a free parameter which is optimised in time so as to maximise the utility function. This has a more robust theoretical foundation, however the optimisation procedure used in IAMs is often poorly documented and, as I show here, you can get interesting behaviour without taking this approach.</p>
+
+<p>In <code class="language-plaintext highlighter-rouge">SimpleClimateEcon</code>, I’ve tried to make everything as simple as possible:</p>
+
+<p>Temperatures are set by emissions using the TCRE-relationship, and temperatures then go on to cause economic damages which raises the Social Cost of Carbon (SCC) - you can think of this as the carbon tax.</p>
+
+<p>The value of the SCC then sets the abatement rate (in theory, through a relationship obtained by parameterizing the output of more complicated IAMs, but for now it’s just a linear function of SCC). Finally the abatement rate and the current size of the world economy set emissions for the next timestep through</p>
+
+\[E_{t+1} \sim \mu_{t} GDP_{t}\]
+
+<p>and the circle of life continues.</p>
+
+<hr />
+
+<h4 id="example">Example</h4>
+
+<figure class="highlight"><pre><code class="language-py" data-lang="py"><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="n">np</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="n">plt</span>
+<span class="kn">from</span> <span class="nn">SimpleClimateEcon</span> <span class="kn">import</span> <span class="n">CBA</span>
+
+<span class="c1"># Initialise model with default parameters
+</span><span class="n">model</span> <span class="o">=</span> <span class="n">CBA</span><span class="p">()</span>
+
+<span class="c1"># Integrate forward in time
+</span><span class="n">model</span><span class="p">.</span><span class="n">forward_integration</span><span class="p">(</span><span class="n">nyears</span><span class="o">=</span><span class="mi">150</span><span class="p">)</span>
+
+<span class="c1"># Plot it
+</span><span class="n">fig</span><span class="p">,</span> <span class="n">ax</span> <span class="o">=</span> <span class="n">plt</span><span class="p">.</span><span class="n">subplots</span><span class="p">()</span>
+<span class="n">model</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">fig</span><span class="o">=</span><span class="n">fig</span><span class="p">,</span> <span class="n">axs</span><span class="o">=</span><span class="n">ax</span><span class="p">)</span></code></pre></figure>
+
+<ul>
+    <li>brunch</li>
+    <li>fixie</li>
+    <li>raybans</li>
+    <li>messenger bag</li>
+</ul>
+
+<p>Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90’s yr typewriter selfies letterpress cardigan vegan.</p>
+
+<hr />
+
+<p>Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.</p>
+
+<blockquote>
+    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
+    —Anais Nin
+</blockquote>
+
+<p>Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.</p>
+
+  </article>
 
   
-
 
 </div>
 
