@@ -11,7 +11,7 @@ nav: true
 
  - **Williams, A.**, O'Gorman, P.A., Pfahl, S.: A Winter-Summer Contrast in the Response of Northern Hemisphere Precipitation Extremes to Climate Change
 
- - **Williams, A.**, Dagan, G., Watson-Parris, D., Stier, P.: Rapid adjustments control the sensitivity of fast changes in local and global precipitation to the spatial pattern of absorbing aerosol
+ - **Williams, A.**, Dagan, G., Watson-Parris, D., Stier, P.: Dependence of fast changes in local and global precipitation on the spatial pattern of absorbing aerosol
 
  - Dagan, G., Stier, P., Dingley, E., **Williams, A.**: Using the co-variability of the atmospheric water and energy budgets to examine the role of clouds in the climate system
  
