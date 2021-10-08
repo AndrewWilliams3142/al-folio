@@ -9,8 +9,6 @@ nav: true
 
 ### in prep:  
 
- - **Williams, A.**, O'Gorman, P.A., Pfahl, S.: A Winter-Summer Contrast in the Response of Northern Hemisphere Precipitation Extremes to Climate Change
-
  - **Williams, A.**, Dagan, G., Watson-Parris, D., Stier, P.: Dependence of fast changes in local and global precipitation on the spatial pattern of absorbing aerosol
 
  - Dagan, G., Stier, P., Dingley, E., **Williams, A.**: Using the co-variability of the atmospheric water and energy budgets to examine the role of clouds in the climate system
@@ -21,6 +19,9 @@ nav: true
 
  - Watson-Parris, D., **Williams, A.**, Deaconu, L., Stier, P.: [Model calibration using ESEm v1.0.0 – an open, scalable Earth System Emulator](https://gmd.copernicus.org/preprints/gmd-2021-267/) \
     *Geoscientific Model Development* (submitted) doi.org/10.5194/gmd-2021-267
+   
+ - **Williams, A.** & O'Gorman, P.A.: Winter-Summer Contrast in the Response of Northern Hemisphere Precipitation Extremes to Climate Change \
+    *Geophysical Research Letters* (submitted)
     
  - **Williams, A.**, Stier, P., Dagan, G., Watson-Parris, D.: Strong control of effective radiative forcing by the spatial pattern of absorbing aerosol \
     *Nature Climate Change* (submitted) 
