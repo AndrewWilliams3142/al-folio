@@ -9,7 +9,7 @@ nav: true
 
 ### in prep:  
 
- - **Williams, A.**, Dagan, G., Watson-Parris, D. & Stier, P.: Dependence of fast changes in local and global precipitation on the spatial pattern of absorbing aerosol
+ - **Williams, A.**, Dagan, G., Watson-Parris, D. & Stier, P.: Dependence of fast changes in local and global precipitation on the location of absorbing aerosol
 
  - Dagan, G., Stier, P., Dingley, B. & **Williams, A.**: Using the co-variability of the atmospheric water and energy budgets to examine the role of clouds in the climate system
  
