@@ -9,8 +9,6 @@ nav: true
 
 ### in prep:  
 
- - **Williams, A.**, Dagan, G., Watson-Parris, D. & Stier, P.: Dependence of fast changes in local and global precipitation on the location of absorbing aerosol
-
  - Dagan, G., Stier, P., Dingley, B. & **Williams, A.**: Using the co-variability of the atmospheric water and energy budgets to examine the role of clouds in the climate system
  
  - **Williams, A.** & Hempel, T.: How does tropical sea-surface temperature variability impact the effective radiative forcing of Indonesian wildfires?
@@ -20,7 +18,10 @@ nav: true
  - **Williams, A.** & co-authors: The linear sensitivity of regional precipitation to sea-surface temperature changes
 
 ### 2021:
-
+ 
+ - **Williams, A.**, Dagan, G., Watson-Parris, D. & Stier, P.: Dependence of fast changes in local and global precipitation on the geographical location of absorbing aerosol \
+    *Geophysical Research Letters* (submitted)
+    
  - Watson-Parris, D., **Williams, A.**, Deaconu, L. & Stier, P.: [Model calibration using ESEm v1.0.0 – an open, scalable Earth System Emulator](https://gmd.copernicus.org/preprints/gmd-2021-267/) \
     *Geoscientific Model Development* (submitted) doi.org/10.5194/gmd-2021-267
    
@@ -29,7 +30,6 @@ nav: true
     
  - **Williams, A.**, Stier, P., Dagan, G. & Watson-Parris, D.: Strong control of effective radiative forcing by the spatial pattern of absorbing aerosol \
     *Nature Climate Change* (submitted) 
-
 
 ### Past projects
 
