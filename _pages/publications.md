@@ -17,6 +17,9 @@ nav: true
 
  - **Williams, A.** & co-authors: The linear sensitivity of regional precipitation to sea-surface temperature changes
 
+ - **Williams, A.**, Woollings, T., Dagan, G., Watson-Parris, D. & Stier, P.: Sensitivity of rapid-adjustments to variations in the vertical structure of extratropical aerosol absorption \
+    *Atmospheric Chemistry and Physics* (submitted)
+
 ### 2021:
  
  - **Williams, A.**, Dagan, G., Watson-Parris, D. & Stier, P.: Dependence of fast changes in local and global precipitation on the geographical location of absorbing aerosol \
