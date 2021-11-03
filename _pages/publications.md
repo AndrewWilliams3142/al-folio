@@ -15,10 +15,9 @@ nav: true
 
  - **Williams, A.** & co-authors: Coupling of aerosols, clouds and circulation in high-resolution, mock-Walker simulations
 
- - **Williams, A.** & co-authors: The linear sensitivity of regional precipitation to sea-surface temperature changes
+ - **Williams, A.** & co-authors: The Linear Sensitivity of Regional Precipitation to Sea-Surface Temperature Changes
 
- - **Williams, A.**, Woollings, T., Dagan, G., Watson-Parris, D. & Stier, P.: Sensitivity of rapid-adjustments to variations in the vertical structure of extratropical aerosol absorption \
-    *Atmospheric Chemistry and Physics* (submitted)
+ - **Williams, A.**, Woollings, T., Dagan, G., Watson-Parris, D. & Stier, P.: Sensitivity of rapid-adjustments to variations in the vertical structure of extratropical aerosol absorption
 
 ### 2021:
  
