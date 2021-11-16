@@ -10,8 +10,6 @@ nav: true
 ### in prep:  
 
  - Dagan, G., Stier, P., Dingley, B. & **Williams, A.**: Using the co-variability of the atmospheric water and energy budgets to examine the role of clouds in the climate system
- 
- - **Williams, A.** & Hempel, T.: How does tropical sea-surface temperature variability impact the effective radiative forcing of Indonesian wildfires?
 
  - **Williams, A.** & co-authors: Coupling of aerosols, clouds and circulation in high-resolution, mock-Walker simulations
 
