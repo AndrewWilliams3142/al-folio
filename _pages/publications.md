@@ -20,7 +20,7 @@ nav: true
     *Geophysical Research Letters* (submitted) doi/10.1002/essoar.10508387.1
     
  - **Williams, A.**, Stier, P., Dagan, G. & Watson-Parris, D.: [Strong control of effective radiative forcing by the spatial pattern of absorbing aerosol](https://doi.org/10.21203/rs.3.rs-1015938/v1) \
-    *Nature Climate Change* (submitted) 
+    *Nature Climate Change* (submitted) doi.org/10.21203/rs.3.rs-1015938/v1
 
 ### Past projects
 
