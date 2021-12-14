@@ -12,6 +12,9 @@ nav: true
  - **Williams, A.**, Dagan, G., Watson-Parris, D. & Stier, P.: Dependence of fast changes in local and global precipitation on the geographical location of absorbing aerosol 
  
 ### 2021:
+
+ - Dagan, G., Stier, P., Dingley, B. & **Williams, A.**: [Examining the regional co-variability of the atmospheric water and energy imbalances in different model configurations - linking clouds and circulation]() \
+     *Journal of Advances in Modeling Earth Systems* (submitted)
     
  - Watson-Parris, D., **Williams, A.**, Deaconu, L. & Stier, P.: [Model calibration using ESEm v1.0.0 – an open, scalable Earth System Emulator](https://gmd.copernicus.org/preprints/gmd-2021-267/) \
     *Geoscientific Model Development* doi.org/10.5194/gmd-2021-267
