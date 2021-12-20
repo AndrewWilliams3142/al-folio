@@ -16,7 +16,7 @@ nav: true
  - Dagan, G., Stier, P., Dingley, B. & **Williams, A.**: [Examining the regional co-variability of the atmospheric water and energy imbalances in different model configurations - linking clouds and circulation]() \
      *Journal of Advances in Modeling Earth Systems* (submitted)
     
- - Watson-Parris, D., **Williams, A.**, Deaconu, L. & Stier, P.: [Model calibration using ESEm v1.0.0 – an open, scalable Earth System Emulator](https://gmd.copernicus.org/preprints/gmd-2021-267/) \
+ - Watson-Parris, D., **Williams, A.**, Deaconu, L. & Stier, P.: [Model calibration using ESEm v1.0.0 – an open, scalable Earth System Emulator](https://gmd.copernicus.org/articles/14/7659/2021/gmd-14-7659-2021.html) \
     *Geoscientific Model Development* doi.org/10.5194/gmd-2021-267
    
  - **Williams, A.** & O'Gorman, P.A.: [Winter-Summer Contrast in the Response of Northern Hemisphere Precipitation Extremes to Climate Change](https://www.essoar.org/doi/10.1002/essoar.10508387.1) \
