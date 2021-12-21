@@ -11,6 +11,8 @@ nav: true
 
  - **Williams, A. I. L.**, Woollings, T. & Stier, P.: Sensitivity of eddy activity to changes in the vertical structure of localized extratropical aerosol absorption
 
+ - **Williams, A. I. L.**, Hohenegger, C., Nuijens, L., Dagan, G., Stier, P. & Kharoutdinov, M.: Impact of warm-rain microphysics on the mean-state and circulation of a high-resolution, mock-Walker cell
+
  - **Williams, A. I. L.**, Dagan, G., Watson-Parris, D. & Stier, P.: Dependence of fast changes in local and global precipitation on the geographical location of absorbing aerosol 
  
 ### 2021:
