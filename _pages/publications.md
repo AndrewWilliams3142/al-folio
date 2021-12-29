@@ -9,7 +9,7 @@ nav: true
 
 ### in prep: 
 
- - **Williams, A. I. L.**, Fedorov, A. & Medeiros, B. M.: Cloud radiative feedbacks amplify the long-term weakening of the tropical Pacific zonal sea surface temperature gradient under global warming
+ - **Williams, A. I. L.** & Fedorov, A.: Contribution of convectively coupled equatorial waves to the local Hadley and Walker circulations in the tropical Pacific
 
  - **Williams, A. I. L.**, Woollings, T. & Stier, P.: Sensitivity of eddy activity to changes in the vertical structure of localized extratropical aerosol absorption
 
