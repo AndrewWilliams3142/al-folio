@@ -9,12 +9,9 @@ nav: true
 
 ### in prep: 
 
- - **Williams, A. I. L.** & Fedorov, A.: Contribution of convectively coupled equatorial waves to the local Hadley and Walker circulations in the tropical Pacific
-
  - **Williams, A. I. L.**, Woollings, T. & Stier, P.: Sensitivity of eddy activity to changes in the vertical structure of localized extratropical aerosol absorption
 
- - **Williams, A. I. L.**, Hempel, T., Herbert, R
- J. & Stier, P.: How does sea surface temperature variability impact the effective radiative forcing of Indonesian biomass-burning aerosol?
+ - **Williams, A. I. L.**, Hempel, T., Herbert, R. J. & Stier, P.: How does sea surface temperature variability impact the effective radiative forcing of Indonesian biomass-burning aerosol?
 
  - **Williams, A. I. L.**, Hohenegger, C., Nuijens, L., Dagan, G., Stier, P. & Khairoutdinov, M.: Impact of warm-rain microphysics on the mean-state and circulation of a high-resolution, mock-Walker cell
 
