@@ -8,15 +8,17 @@ nav: true
 *Unfortunately, not all publications are open-access. If you want to have a copy, please don't pay for it! Just drop me an email and I'll send it to you personally. It's completely legal, and I am very happy to do this.*
 
 ### in prep: 
-
- - **Williams, A. I. L.**, Dagan, G., Watson-Parris, D. & Stier, P.: Dependence of fast changes in local and global precipitation on the geographical location of aerosol absorption 
+ 
+ - **Williams, A. I. L.**, Nuijens, L., Hohenegger, C., Dagan, G., Stier, P. & Khairoutdinov, M.: Aerosol-cloud-circulation interactions in high-resolution simulations with an imposed SST gradient
+ 
+ - **Williams, A. I. L.**, Dagan, G., Watson-Parris, D. & Stier, P.: Dependence of fast precipitation changes on the geographical location of aerosol absorption
  
 ### 2022:
 
  - Dagan, G., Stier, P., Dingley, B. & **Williams, A. I. L.**: [Examining the regional co-variability of the atmospheric water and energy imbalances in different model configurations - linking clouds and circulation]() \
      *Journal of Advances in Modeling Earth Systems* (in review)
    
- - **Williams, A. I. L.** & O'Gorman, P.A.: [Winter-Summer Contrast in the Response of Northern Hemisphere Precipitation Extremes to Climate Change](https://www.essoar.org/doi/10.1002/essoar.10508387.1) \
+ - **Williams, A. I. L.** & O'Gorman, P.A.: [Summer-Winter Contrast in the Response of Precipitation Extremes to Climate Change over Northern Hemisphere Land](https://www.essoar.org/doi/10.1002/essoar.10508387.1) \
     *Geophysical Research Letters* (in revision) \
     doi.org/10.1002/essoar.10508387.1
     
