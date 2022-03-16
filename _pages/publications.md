@@ -10,10 +10,11 @@ nav: true
 ### in prep: 
  
  - **Williams, A. I. L.**, Nuijens, L., Hohenegger, C., Dagan, G., Stier, P. & Khairoutdinov, M.: Aerosol-cloud-circulation interactions in high-resolution simulations with an imposed SST gradient
- 
- - **Williams, A. I. L.**, Dagan, G., Watson-Parris, D. & Stier, P.: How do fast precipitation changes depend on the geographical location of aerosol absorption?
- 
+  
 ### 2022:
+
+ - **Williams, A. I. L.**, Dagan, G., Watson-Parris, D. & Stier, P.: [Why do fast precipitation changes depend on the geographical location of aerosol absorption?]() \
+     *Journal of Climate* (submitted)
 
  - Dagan, G., Stier, P., Dingley, B. & **Williams, A. I. L.**: [Examining the regional co-variability of the atmospheric water and energy imbalances in different model configurations - linking clouds and circulation]() \
      *Journal of Advances in Modeling Earth Systems* (in review)
