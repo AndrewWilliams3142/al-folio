@@ -13,7 +13,7 @@ nav: true
   
 ### 2022:
 
- - **Williams, A. I. L.**, Dagan, G., Watson-Parris, D. & Stier, P.: [Why do fast precipitation changes depend on the geographical location of aerosol absorption?]() \
+ - **Williams, A. I. L.**, Dagan, G., Watson-Parris, D. & Stier, P.: [Understanding the dependence of fast changes in global and local precipitation on the geographical location of aerosol absorption]() \
      *Journal of Climate* (submitted)
 
  - Dagan, G., Stier, P., Dingley, B. & **Williams, A. I. L.**: [Examining the regional co-variability of the atmospheric water and energy imbalances in different model configurations - linking clouds and circulation]() \
