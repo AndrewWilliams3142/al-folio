@@ -13,8 +13,8 @@ nav: true
   
 ### 2022:
 
- - **Williams, A. I. L.**, Dagan, G., Watson-Parris, D. & Stier, P.: [Understanding the dependence of fast changes in global and local precipitation on the geographical location of aerosol absorption]() \
-     *Journal of Climate* (submitted)
+ - **Williams, A. I. L.**, Dagan, G., Watson-Parris, D. & Stier, P.: [Dependence of fast changes in global and local precipitation on the geographical location of aerosol absorption]() \
+     *Journal of Geophysical Research: Atmospheres* (submitted)
 
  - Dagan, G., Stier, P., Dingley, B. & **Williams, A. I. L.**: [Examining the regional co-variability of the atmospheric water and energy imbalances in different model configurations - linking clouds and circulation]() \
      *Journal of Advances in Modeling Earth Systems* (in revision)
