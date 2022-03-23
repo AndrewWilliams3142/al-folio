@@ -4,4 +4,4 @@ date: 2022-02-19
 inline: true
 ---
 
-I received an [Outstanding Student Presentation award](https://twitter.com/AndrewIWilliams/status/1495058060423069698) for my AGU conference presentation! :smile:
+I received an [Outstanding Student Presentation award](https://www.agu.org/Learn-and-Develop/Learn/Student-Competitions/OSPA/OSPA-Winners?m-search-result=OSPA) for my AGU conference presentation! :smile:
