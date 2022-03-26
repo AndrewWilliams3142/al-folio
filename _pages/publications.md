@@ -5,8 +5,6 @@ title: publications
 nav: true
 ---
 
-*Unfortunately, not all publications are open-access. If you want to have a copy, please don't pay for it! Just drop me an email and I'll send it to you personally. It's completely legal, and I am very happy to do this.*
-
 ### in prep: 
  
  - **Williams, A. I. L.**, Nuijens, L., Hohenegger, C., Dagan, G., Stier, P. & Khairoutdinov, M.: Aerosol-cloud-circulation interactions in high-resolution simulations with an imposed SST gradient
