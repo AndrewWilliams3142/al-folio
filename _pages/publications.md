@@ -7,15 +7,11 @@ nav: true
 
 ### in prep:
  
- 
- - **Williams, A. I. L.** & Khairoutdinov, M: Convectively coupled equatorial waves in a simple, cloud-resolving model of the Walker Circulation 
+ - **Williams, A. I. L.**, Dagan, G., Watson-Parris, D. & Stier, P.: Dependence of fast changes in global and local precipitation on the geographical location of aerosol absorption
     
  - **Williams, A. I. L.**, Nuijens, L., Hohenegger, C., Dagan, G. & Stier, P.: Aerosol-cloud-circulation interactions in high-resolution simulations with an imposed SST gradient
   
-### 2022:
-
- - **Williams, A. I. L.**, Dagan, G., Watson-Parris, D. & Stier, P.: [Dependence of fast changes in global and local precipitation on the geographical location of aerosol absorption]() \
-     *Journal of Geophysical Research: Atmospheres* (submitted)
+### 2022;
 
  - Dagan, G., Stier, P., Dingley, B. & **Williams, A. I. L.**: [Examining the regional co-variability of the atmospheric water and energy imbalances in different model configurations - linking clouds and circulation]() \
      *Journal of Advances in Modeling Earth Systems* (in revision)
