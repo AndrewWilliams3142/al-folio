@@ -5,9 +5,12 @@ title: publications
 nav: true
 ---
 
-### in prep: 
+### in prep:
  
- - **Williams, A. I. L.**, Nuijens, L., Hohenegger, C., Dagan, G., Stier, P. & Khairoutdinov, M.: Aerosol-cloud-circulation interactions in high-resolution simulations with an imposed SST gradient
+ 
+ - **Williams, A. I. L.** & Khairoutdinov, M: Convectively coupled equatorial waves in a simple, cloud-resolving model of the Walker Circulation 
+    
+ - **Williams, A. I. L.**, Nuijens, L., Hohenegger, C., Dagan, G. & Stier, P.: Aerosol-cloud-circulation interactions in high-resolution simulations with an imposed SST gradient
   
 ### 2022:
 
