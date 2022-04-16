@@ -8,7 +8,10 @@ nav: true
 ### in prep:
  
  - **Williams, A. I. L.**, Dagan, G., Watson-Parris, D. & Stier, P.: Dependence of fast changes in global and local precipitation on the geographical location of aerosol absorption
-   
+
+ - **Williams, A. I. L.**, Nuijens, L., Hohenegger, C., Dagan, G., & Stier, P.: Aerosol-cloud-circulation interactions in high-resolution, cloud-resolving simulations with an imposed SST gradient
+
+ - **Williams, A. I. L.** & O'Gorman, P. A.: Are we there yet? Internal variability, sparse observations and aerosol forcing delay the robust detection of climatic trends in extreme precipitation
   
 ### 2022:
 
