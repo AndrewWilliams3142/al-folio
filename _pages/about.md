@@ -20,4 +20,6 @@ Hi there! I am a PhD student in the Department of Atmospheric, Oceanic and Plane
 
 My work focuses on connecting the results from complex models to basic, physical theory and understanding the role of clouds and large-scale circulation in climate change. 
 
+My research uses a **range of different tools** to understand how our planet responds to changes in **aerosols** (e.g. from pollution or wildfires) and **greenhouse gases** (e.g. CO$$ _{2} $$). I am particularly interested in connecting the results from complex models to basic, physical theory and understanding the role of clouds and large-scale circulations in climate change.
+
 I am also a keen advocate for reproducible, open-source science and contribute to numerous community projects on [GitHub](https://github.com/AndrewWilliams3142){:target="\_blank"}. You can find out some more about the projects I've been involved with on my [Research](https://andrewwilliams3142.github.io/research/) page.
