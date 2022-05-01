@@ -8,8 +8,6 @@ nav: true
 ### in prep:
  
  - **Williams, A. I. L.**, Dagan, G., Watson-Parris, D. & Stier, P.: Dependence of fast changes in global and local precipitation on the geographical location of aerosol absorption
-
- - **Williams, A. I. L.**, Nuijens, L., Hohenegger, C., Dagan, G., & Stier, P.: Aerosol-cloud-circulation interactions in a high-resolution, mock-Walker cell
   
 ### 2022:
 
@@ -17,10 +15,10 @@ nav: true
      *Journal of Advances in Modeling Earth Systems* (in revision)
    
  - **Williams, A. I. L.** & O'Gorman, P.A.: [Summer-Winter Contrast in the Response of Precipitation Extremes to Climate Change over Northern Hemisphere Land](https://www.essoar.org/doi/10.1002/essoar.10508387.2) \
-    *Geophysical Research Letters* (in revision)
+    *Geophysical Research Letters* 
     
  - **Williams, A. I. L.**, Stier, P., Dagan, G. & Watson-Parris, D.: [Strong control of effective radiative forcing by the spatial pattern of absorbing aerosol](https://doi.org/10.21203/rs.3.rs-1015938/v1) \
-    *Nature Climate Change* (accepted) 
+    *Nature Climate Change* 
  
 ### 2021:
  
