@@ -12,7 +12,7 @@ nav: true
 ### 2022:
 
  - Dagan, G., Stier, P., Dingley, B. & **Williams, A. I. L.**: [Examining the regional co-variability of the atmospheric water and energy imbalances in different model configurations - linking clouds and circulation]() \
-     *Journal of Advances in Modeling Earth Systems* (in revision)
+     *Journal of Advances in Modeling Earth Systems* (accepted)
    
  - **Williams, A. I. L.** & O'Gorman, P.A.: [Summer-Winter Contrast in the Response of Precipitation Extremes to Climate Change over Northern Hemisphere Land](https://www.essoar.org/doi/10.1002/essoar.10508387.2) \
     *Geophysical Research Letters* 
