@@ -15,10 +15,10 @@ nav: true
      *Journal of Advances in Modeling Earth Systems* (accepted)
    
  - **Williams, A. I. L.** & O'Gorman, P.A.: [Summer-Winter Contrast in the Response of Precipitation Extremes to Climate Change over Northern Hemisphere Land](https://www.essoar.org/doi/10.1002/essoar.10508387.2) \
-    *Geophysical Research Letters* 
+    *Geophysical Research Letters* (accepted)
     
  - **Williams, A. I. L.**, Stier, P., Dagan, G. & Watson-Parris, D.: [Strong control of effective radiative forcing by the spatial pattern of absorbing aerosol](https://doi.org/10.21203/rs.3.rs-1015938/v1) \
-    *Nature Climate Change* 
+    *Nature Climate Change* (accepted)
  
 ### 2021:
  
