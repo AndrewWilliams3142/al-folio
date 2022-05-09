@@ -7,7 +7,7 @@ nav: true
 
 ### in prep:
  
- - **Williams, A. I. L.**, Dagan, G., Watson-Parris, D. & Stier, P.: Dependence of fast changes in global and local precipitation on the geographical location of aerosol absorption
+ - **Williams, A. I. L.**, Dagan, G., Watson-Parris, D. & Stier, P.: Understanding the dependence of changes in global and local precipitation on the geographical location of aerosol absorption
   
 ### 2022:
 
