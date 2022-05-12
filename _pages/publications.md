@@ -7,6 +7,8 @@ nav: true
 
 ### in prep:
  
+ - **Williams, A. I. L.** & Bloch-Johnson, J.: Convective quasi-equilibrium and the pattern effect
+ 
  - **Williams, A. I. L.**, Dagan, G., Watson-Parris, D. & Stier, P.: Understanding the dependence of global and local precipitation changes on the geographical location of aerosol absorption
   
 ### 2022:
