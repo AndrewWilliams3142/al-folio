@@ -9,7 +9,7 @@ nav: true
 
  - **Williams, A. I. L.**, ...: The linear sensitivity of regional precipitation to sea-surface temperature changes
  
- - **Williams, A. I. L.** & Bloch-Johnson, J.: Convective quasi-equilibrium and the pattern effect
+ - **Williams, A. I. L.**, Bloch-Johnson, J. & Jeevanjee, N.: Convective quasi-equilibrium and the pattern effect
  
  - **Williams, A. I. L.**, Dagan, G., Watson-Parris, D. & Stier, P.: Understanding the dependence of global and local precipitation changes on the geographical location of aerosol absorption
   
