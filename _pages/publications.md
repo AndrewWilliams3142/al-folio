@@ -6,6 +6,8 @@ nav: true
 ---
 
 ### in prep:
+
+ - **Williams, A. I. L.**, ...: The linear sensitivity of regional precipitation to sea-surface temperature changes
  
  - **Williams, A. I. L.** & Bloch-Johnson, J.: Convective quasi-equilibrium and the pattern effect
  
