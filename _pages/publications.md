@@ -9,7 +9,7 @@ nav: true
 
  - Schmidt, H., Bao, J., ..., & **Williams, A. I. L.**: The dependence of the climate simulated in a global storm-resolving model on its vertical resolution
 
- - **Williams, A. I. L.**, Watson-Parris, D., Dagan, G. & Stier, P.: Understanding the dependence of global and local precipitation on the spatial pattern of aerosol absorption
+ - **Williams, A. I. L.**, Watson-Parris, D., Dagan, G. & Stier, P.: Dependence of global and local precipitation on the spatial pattern of aerosol absorption
 
 ### submitted/in review:
 
