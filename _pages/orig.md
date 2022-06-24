@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 <p>&nbsp;</p>
 
 
-Hi there! I am a PhD student in the Department of Atmospheric, Oceanic and Planetary Physics at the University of Oxford, where my advisor is [Prof. Philip Stier](https://www2.physics.ox.ac.uk/contacts/people/stier){:target="\_blank"}. Check out my cv [here!](https://andrewwilliams3142.github.io/assets/pdf/CV_andrew_williams_Jan22.pdf)
+Hi there! I am a PhD student in the Department of Atmospheric, Oceanic and Planetary Physics at the University of Oxford, where my advisor is [Prof. Philip Stier](https://www2.physics.ox.ac.uk/contacts/people/stier){:target="\_blank"}. Check out my cv [here!](https://andrewwilliams3142.github.io/assets/pdf/resume_williams_june22.pdf)
 
 My work focuses on connecting the results from complex models to basic, physical theory and understanding the role of clouds and large-scale circulation in climate change. 
 
