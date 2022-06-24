@@ -9,7 +9,7 @@ nav: true
 
  - **Williams, A. I. L.**, Watson-Parris, D., Dagan, G. & Stier, P.: Understanding the dependence of global and local precipitation on the spatial pattern of aerosol absorption
 
- - **Williams, A. I. L.**, Bloch-Johnson, J. & Jeevanjee, N.: Ubiquitous non-linearities in the climate response to tropical sea-surface temperature perturbations
+ - **Williams, A. I. L.**, Bloch-Johnson, J. & Jeevanjee, N.: Non-linear climate response to tropical sea-surface temperature changes explained by convective quasi-equilibrium 
 
 ### submitted/in review:
 
