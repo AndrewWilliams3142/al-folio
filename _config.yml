@@ -88,9 +88,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  notes:
-    output: true
-    permalink: /notes/:path/
+  #notes:
+  #  output: true
+  #  permalink: /notes/:path/
 
 news_limit: 5
 
