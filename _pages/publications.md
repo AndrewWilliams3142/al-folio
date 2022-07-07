@@ -8,15 +8,17 @@ nav: true
 ### in prep (email for details):
 
  - **Williams, A. I. L.**, Bloch-Johnson, J. & Jeevanjee, N.: Non-linear climate response to tropical sea-surface temperature changes explained by a convective threshold
+
+ - Bloch-Johnson, J., Rugenstein, M. Proistosescu, C., Alessi, M. J., **Williams, A. I. L.**,  & co-authors: The Green's Function Model Intercomparison Project (GFMIP)
  
  - **Williams, A. I. L.**, Watson-Parris, D., Dagan, G. & Stier, P.: Understanding the dependence of global and local precipitation on the spatial pattern of aerosol absorption
 
 ### submitted/in review:
-
- - **Williams, A. I. L.**, Stier, P., Dagan, G. & Watson-Parris, D.: [Strong control of effective radiative forcing by the spatial pattern of absorbing aerosol](https://doi.org/10.21203/rs.3.rs-1015938/v1) \
-    *Nature Climate Change* (accepted)
   
 ### 2022:
+    
+ - **Williams, A. I. L.**, Stier, P., Dagan, G. & Watson-Parris, D.: [Strong control of effective radiative forcing by the spatial pattern of absorbing aerosol](https://doi.org/10.21203/rs.3.rs-1015938/v1) \
+    *Nature Climate Change* (in press)
     
  - Dagan, G., Stier, P., Dingley, B. & **Williams, A. I. L.**: [Examining the regional co-variability of the atmospheric water and energy imbalances in different model configurations - linking clouds and circulation](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021MS002951?af=R) \
      *Journal of Advances in Modeling Earth Systems* 
