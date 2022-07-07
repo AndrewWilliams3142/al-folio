@@ -5,7 +5,7 @@ title: publications
 nav: true
 ---
 
-### in prep (email for details):
+### in prep (email for details): 
 
  - **Williams, A. I. L.**, Bloch-Johnson, J. & Jeevanjee, N.: Non-linear climate response to tropical sea-surface temperature changes explained by a convective threshold
 
@@ -14,6 +14,8 @@ nav: true
  - **Williams, A. I. L.**, Watson-Parris, D., Dagan, G. & Stier, P.: Understanding the dependence of global and local precipitation on the spatial pattern of aerosol absorption
 
 ### submitted/in review:
+
+Check back soon! 🤞🤞🤞
   
 ### 2022:
     
