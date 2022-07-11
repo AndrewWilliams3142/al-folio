@@ -9,7 +9,7 @@ nav: true
 
  - **Williams, A. I. L.**, Bloch-Johnson, J. & Jeevanjee, N.: Non-linear climate response to tropical sea-surface temperature changes explained by a convective threshold
 
- - Bloch-Johnson, J., Rugenstein, M. Proistosescu, C., Alessi, M. J., **Williams, A. I. L.**,  & co-authors: The Green's Function Model Intercomparison Project (GFMIP)
+ - Bloch-Johnson, J. & co-authors including **Williams, A. I. L.**: The Green’s Function Model Intercomparison Project (GFMIP) Protocol
  
  - **Williams, A. I. L.**, Watson-Parris, D., Dagan, G. & Stier, P.: Understanding the dependence of global and local precipitation on the spatial pattern of aerosol absorption
 
