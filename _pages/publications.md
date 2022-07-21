@@ -19,8 +19,8 @@ Check back soon! 🤞🤞🤞
   
 ### 2022:
     
- - **Williams, A. I. L.**, Stier, P., Dagan, G. & Watson-Parris, D.: [Strong control of effective radiative forcing by the spatial pattern of absorbing aerosol](https://doi.org/10.21203/rs.3.rs-1015938/v1) \
-    *Nature Climate Change* (in press)
+ - **Williams, A. I. L.**, Stier, P., Dagan, G. & Watson-Parris, D.: [Strong control of effective radiative forcing by the spatial pattern of absorbing aerosol](https://www.nature.com/articles/s41558-022-01415-4) \
+    *Nature Climate Change*
     
  - Dagan, G., Stier, P., Dingley, B. & **Williams, A. I. L.**: [Examining the regional co-variability of the atmospheric water and energy imbalances in different model configurations - linking clouds and circulation](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021MS002951?af=R) \
      *Journal of Advances in Modeling Earth Systems* 
