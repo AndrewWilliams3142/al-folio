@@ -7,7 +7,7 @@ nav: true
 
 ### in prep (email for details): 
 
- - **Williams, A. I. L.**, Bloch-Johnson, J. & Jeevanjee, N.: Non-linear climate response to tropical sea-surface temperature changes explained by a convective threshold
+ - **Williams, A. I. L.**, Jeevanjee, N. & Bloch-Johnson, J.: Circus tents and convective thresholds: explaining the non-linear climate response to tropical SST changes
 
  - Bloch-Johnson, J. & co-authors including **Williams, A. I. L.**: The Green’s Function Model Intercomparison Project (GFMIP) Protocol
  
