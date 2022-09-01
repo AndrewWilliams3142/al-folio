@@ -13,6 +13,8 @@ nav: true
  
  - **Williams, A. I. L.**, Watson-Parris, D., Dagan, G. & Stier, P.: Understanding the dependence of global and local precipitation on the spatial pattern of aerosol absorption
 
+ - **Williams, A. I. L.**, Nuijens, L., Hohenegger, C., Dagan, G. & Stier, P.: Precipitating shallow convection weakens the tropical circulation in simulations of radiative-convective equilibrium
+
 ### submitted/in review:
 
 Check back soon! 🤞🤞🤞
