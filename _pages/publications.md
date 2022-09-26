@@ -7,17 +7,15 @@ nav: true
 
 ### in prep (email for details): 
 
- - **Williams, A. I. L.**, Jeevanjee, N. & Bloch-Johnson, J.: Circus tents, convective thresholds and the non-linear climate response to tropical SST changes
+ - **Williams, A. I. L.**, Watson-Parris, D., Dagan, G. & Stier, P.: Understanding the dependence of global and local precipitation on the spatial pattern of aerosol absorption
 
  - Herbert, R. J., **Williams, A. I. L.**, Weiss, P., Klocke, D. & Stier, P.: Aerosol-climate interactions in global storm-resolving simulations
 
  - Bloch-Johnson, J. & co-authors including **Williams, A. I. L.**: The Green’s Function Model Intercomparison Project (GFMIP) Protocol
- 
- - **Williams, A. I. L.**, Watson-Parris, D., Dagan, G. & Stier, P.: Understanding the dependence of global and local precipitation on the spatial pattern of aerosol absorption
 
 ### submitted/in review:
 
-Check back soon! 🤞🤞🤞
+ - **Williams, A. I. L.**, Jeevanjee, N. & Bloch-Johnson, J.: Circus tents, convective thresholds and the non-linear climate response to tropical SST changes
   
 ### 2022:
     
