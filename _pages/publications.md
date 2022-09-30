@@ -12,6 +12,8 @@ nav: true
  - Herbert, R. J., **Williams, A. I. L.**, Weiss, P., Klocke, D. & Stier, P.: Aerosol-climate interactions in global storm-resolving simulations
 
  - Bloch-Johnson, J. & co-authors including **Williams, A. I. L.**: The Green’s Function Model Intercomparison Project (GFMIP) Protocol
+ 
+ - Bao, J. & **Williams, A. I. L.**: Changes in the tropical convective area fraction under global warming
 
 ### submitted/in review:
 
