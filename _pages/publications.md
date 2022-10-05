@@ -17,7 +17,8 @@ nav: true
 
 ### submitted/in review:
 
- - **Williams, A. I. L.**, Jeevanjee, N. & Bloch-Johnson, J.: Circus tents, convective thresholds and the non-linear climate response to tropical SST changes
+ - **Williams, A. I. L.**, Jeevanjee, N. & Bloch-Johnson, J.: [Circus tents, convective thresholds and the non-linear climate response to tropical SST changes](https://www.essoar.org/doi/abs/10.1002/essoar.10512543.1) \
+    *Geophysical Research Letters* (in review)
   
 ### 2022:
     
