@@ -35,7 +35,10 @@ nav: true
  - Watson-Parris, D., **Williams, A. I. L.**, Deaconu, L. & Stier, P.: [Model calibration using ESEm v1.0.0 – an open, scalable Earth System Emulator](https://gmd.copernicus.org/articles/14/7659/2021/gmd-14-7659-2021.html) \
     *Geoscientific Model Development* 
 
-### Past projects
+   
+### Other projects
+
+ - White paper commissioned by Shadow Secretary of State for Health and Social Care: [*Climate Change and Pandemics*](http://www.publications.scientistsforlabour.org.uk/020/020.pdf)
 
  - SURF 2018 project report: [*Optimizing the number of convective plumes in EDMF cloud parameterization schemes using data from high-resolution LES simulations*](https://andrewwilliams3142.github.io/assets/pdf/Optimizing_the_number_of_convective_plumes_in_EDMF_cloud_parameterization_schemes_using_data_from_high_resolution_LES_simulations.pdf) \
    Supervised by Yair Cohen and Tapio Schneider.
