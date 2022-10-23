@@ -14,7 +14,7 @@ nav: true
 ### submitted/in review:
 
  - **Williams, A. I. L.**, Watson-Parris, D., Dagan, G. & Stier, P.: [Dependence of fast changes in global and local precipitation on the geographical location of aerosol absorption]() \
-    *Journal of Geophysical Research: Atmospheres* (submitted...almost)
+    *Journal of Geophysical Research: Atmospheres* (submitted)
 
  - **Williams, A. I. L.**, Jeevanjee, N. & Bloch-Johnson, J.: [Circus tents, convective thresholds and the non-linear climate response to tropical SST changes](https://www.essoar.org/doi/abs/10.1002/essoar.10512543.1) \
     *Geophysical Research Letters* (in review)
