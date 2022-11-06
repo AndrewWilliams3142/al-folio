@@ -1,47 +1,63 @@
----
-layout: 
-title: 
-permalink: 
-description: Explore some of the research topics I'm interested in!
-nav: true
----
-
 <div class="projects grid">
 
-  {% assign sorted_projects = site.projects | sort: "importance" %}
-  {% for project in sorted_projects %}
+  
+  
   <div class="grid-item">
-    {% if project.redirect %}
-    <a href="{{ project.redirect }}" target="_blank">
-    {% else %}
-    <a href="{{ project.url | relative_url }}">
-    {% endif %}
+    
+    <a href="/projects/aerosols_and_climate/">
+    
       <div class="card hoverable">
-        {% if project.img %}
-        <img src="{{ project.img | relative_url }}" alt="project thumbnail">
-        {% endif %}
+        
+        <img src="/assets/img/2005_aod.png" alt="project thumbnail">
+        
         <div class="card-body">
-          <h2 class="card-title text-lowercase">{{ project.title }}</h2>
-          <p class="card-text">{{ project.description }}</p>
+          <h2 class="card-title text-lowercase">aerosols and climate</h2>
+          <p class="card-text">How does the spatial distribution of anthropogenic aerosol impact the Earth's climate?</p>
           <div class="row ml-1 mr-1 p-0">
-            {% if project.github %}
-            <div class="github-icon">
-              <div class="icon" data-toggle="tooltip" title="Code Repository">
-                <a href="{{ project.github }}" target="_blank"><i class="fab fa-github gh-icon"></i></a>
-              </div>
-              {% if project.github_stars %}
-              <span class="stars" data-toggle="tooltip" title="GitHub Stars">
-                <i class="fas fa-star"></i>
-                <span id="{{ project.github_stars }}-stars"></span>
-              </span>
-              {% endif %}
-            </div>
-            {% endif %}
+            
           </div>
         </div>
       </div>
     </a>
   </div>
-{% endfor %}
+
+  <div class="grid-item">
+    
+    <a href="/projects/hydrological_cycle/">
+    
+      <div class="card hoverable">
+        
+        <img src="/assets/img/djf_rx1_no-title.png" alt="project thumbnail">
+        
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">the hydrological cycle</h2>
+          <p class="card-text">How does global warming impact extreme rainfall?</p>
+          <div class="row ml-1 mr-1 p-0">
+            
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="grid-item">
+    
+    <a href="/projects/climate_sensitivity/">
+    
+      <div class="card hoverable">
+        
+        <img src="/assets/img/spectral_no-title.png" alt="project thumbnail">
+        
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">climate sensitivity</h2>
+          <p class="card-text">Why is climate sensitivity state-dependent, and does it matter?</p>
+          <div class="row ml-1 mr-1 p-0">
+            
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+
 
 </div>
