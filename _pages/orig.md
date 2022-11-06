@@ -18,6 +18,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there! I am a PhD student in the Department of Atmospheric, Oceanic and Planetary Physics at the University of Oxford. Check out my cv [here!](https://andrewwilliams3142.github.io/assets/pdf/resume_williams_june22.pdf)
 
-My work focuses on connecting the results from complex models to basic, physical theory and understanding the role of clouds and large-scale circulation in climate change. 
+My work focuses on understanding the role of clouds and large-scale circulation in climate change and connecting the results from complex models to basic, physical theory. 
 
-I am also a keen advocate for reproducible, open-source science and contribute to numerous community projects on [GitHub](https://github.com/AndrewWilliams3142){:target="\_blank"}. You can find out some more about the projects I've been involved with on my [Research](https://andrewwilliams3142.github.io/research/) page.
+You can find out some more about the projects I've been involved with on my [publications](https://andrewwilliams3142.github.io/publications/) page.
