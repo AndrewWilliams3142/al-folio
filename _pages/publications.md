@@ -7,14 +7,13 @@ nav: true
 
 ### in prep (email for details): 
 
+ - **Williams, A. I. L.**, Watson-Parris, D., Dagan, G. & Stier, P.: Dependence of fast changes in global and local precipitation on the geographical location of aerosol absorption
+
  - Bloch-Johnson, J. & co-authors including **Williams, A. I. L.**: The Green’s Function Model Intercomparison Project (GFMIP) Protocol
 
  - Herbert, R. J., **Williams, A. I. L.**, Weiss, P., Klocke, D. & Stier, P.: Isolating aerosol-climate interactions in global storm-resolving simulations
  
 ### submitted/in review:
-
- - **Williams, A. I. L.**, Watson-Parris, D., Dagan, G. & Stier, P.: [Dependence of fast changes in global and local precipitation on the geographical location of aerosol absorption]() \
-    *Journal of Geophysical Research: Atmospheres* (submitted)
 
  - **Williams, A. I. L.**, Jeevanjee, N. & Bloch-Johnson, J.: [Circus tents, convective thresholds and the non-linear climate response to tropical SST changes](https://www.essoar.org/doi/abs/10.1002/essoar.10512543.1) \
     *Geophysical Research Letters* (in review)
