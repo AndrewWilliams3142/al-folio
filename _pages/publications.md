@@ -11,7 +11,7 @@ nav: true
 
  - Bloch-Johnson, J. & co-authors including **Williams, A. I. L.**: The Green’s Function Model Intercomparison Project (GFMIP) Protocol
 
- - Herbert, R. J., **Williams, A. I. L.**, Weiss, P., Klocke, D. & Stier, P.: Isolating aerosol-climate interactions in global storm-resolving simulations
+ - Herbert, R. J., **Williams, A. I. L.**, Weiss, P., Klocke, D. & Stier, P.: Strong aerosol-climate interactions in global storm-resolving simulations
  
 ### submitted/in review:
 
