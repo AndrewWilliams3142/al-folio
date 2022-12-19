@@ -1,9 +1,7 @@
 language: ruby
 rvm:
   - 2.4.1
-  
-- name: Setup Ruby, JRuby and TruffleRuby
-  uses: ruby/setup-ruby@v1.127.0
+
   
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
